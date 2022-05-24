@@ -1,6 +1,6 @@
 # Multi_proj_6
 
-- [기획안](https://drive.google.com/drive/u/0/folders/1tvJRpnDMa6B0Efg-3qTRHFa01yolYlLG?lfhs=2)
+- [기획안](https://docs.google.com/document/d/13RwllnkEg-1lDlXhFnggXsii04QX7ZwL/edit)
 - [발표자료](https://drive.google.com/drive/u/0/folders/16c9qIBA_35K5xlysDiCqXnJXjSKqKTHJ?lfhs=2)
 - [소스코드](https://drive.google.com/drive/u/0/folders/1MN6rRawpJmiLRsWjcs4LNaZlBtGrE7Ta?lfhs=2)
 - [수행일지](https://drive.google.com/drive/u/0/folders/1ALXE64ULPDJGkL54ilDH0NqmET6CPOJm?lfhs=2)

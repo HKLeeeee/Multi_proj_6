@@ -45,4 +45,4 @@ MANIFEST
 ###### jupyter notebook ########
 .ipynb_checkpoint
 /data
-*/.ipynb_checkpoint
+*/.ipynb_checkpoint/*

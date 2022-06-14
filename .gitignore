@@ -1,3 +1,9 @@
+/model/checkpoints
+
+### Wandb ###
+*/wandb
+/wandb
+
 ### Django ###
 *.log
 *.pot

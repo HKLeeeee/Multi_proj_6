@@ -1,4 +1,4 @@
-/model/checkpoints
+*.h5
 
 ### Wandb ###
 */wandb

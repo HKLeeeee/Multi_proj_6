@@ -1,0 +1,14 @@
+wandb_version: 1
+
+activation:
+  value: softmax
+batch_size:
+  value: 20
+dense:
+  value: 1024
+dropout:
+  value: 0.2
+learning_rate:
+  value: 0.001
+optimizer:
+  value: nadam

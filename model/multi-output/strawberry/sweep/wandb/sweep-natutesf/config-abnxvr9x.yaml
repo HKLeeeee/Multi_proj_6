@@ -1,0 +1,16 @@
+wandb_version: 1
+
+activation:
+  value: softmax
+batch_size:
+  value: 50
+dense:
+  value: 1024
+dropout:
+  value: 0.2
+learning_rate:
+  value: 0.0001
+optimizer:
+  value: adam
+pretrain_net:
+  value: resnet

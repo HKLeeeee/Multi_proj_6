@@ -1,0 +1,2 @@
+model_checkpoint_path: "toplayer_strawberry.ckpt"
+all_model_checkpoint_paths: "toplayer_strawberry.ckpt"

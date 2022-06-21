@@ -1,0 +1,14 @@
+wandb_version: 1
+
+batch_size:
+  value: 58
+dense:
+  value: 745
+dropout:
+  value: 0.8646299858308268
+epochs:
+  value: 348
+learning_rate:
+  value: 0.01
+optimizer:
+  value: sgd

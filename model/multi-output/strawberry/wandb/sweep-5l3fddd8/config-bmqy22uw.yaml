@@ -1,0 +1,14 @@
+wandb_version: 1
+
+batch_size:
+  value: 16
+dense:
+  value: 154
+drop_out:
+  value: 0.5916592802378737
+epochs:
+  value: 38
+learning_rate:
+  value: 0.0004860778855846052
+optimizer:
+  value: rmsprop

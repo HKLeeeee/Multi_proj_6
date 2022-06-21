@@ -1,0 +1,44 @@
+wandb_version: 1
+
+_wandb:
+  desc: null
+  value:
+    cli_version: 0.12.18
+    framework: tensorflow
+    is_jupyter_run: false
+    is_kaggle_kernel: false
+    python_version: 3.9.12
+    start_time: 1655276001
+    t:
+      1:
+      - 3
+      - 5
+      - 53
+      - 55
+      2:
+      - 3
+      - 5
+      - 53
+      - 55
+      4: 3.9.12
+      5: 0.12.18
+      8:
+      - 5
+batch_size:
+  desc: null
+  value: 48
+dense:
+  desc: null
+  value: 1845
+dropout:
+  desc: null
+  value: 0.3721843186308113
+epochs:
+  desc: null
+  value: 773
+learning_rate:
+  desc: null
+  value: 0.001
+optimizer:
+  desc: null
+  value: rmsprop

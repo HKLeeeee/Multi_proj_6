@@ -1,5 +1,10 @@
 *.h5
 *.ckpt.*
+*.yaml
+*.pt
+model/multi-output/lettuce/wandb/
+model/multi-output/strawberry/wandb/
+
 
 ### Wandb ###
 */wandb

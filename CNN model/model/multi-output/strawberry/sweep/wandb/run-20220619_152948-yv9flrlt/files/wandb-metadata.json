@@ -1,0 +1,23 @@
+{
+    "os": "Linux-5.4.0-1080-aws-x86_64-with-glibc2.27",
+    "python": "3.9.12",
+    "heartbeatAt": "2022-06-19T06:29:49.502286",
+    "startedAt": "2022-06-19T06:29:48.367738",
+    "docker": null,
+    "gpu": "Tesla T4",
+    "gpu_count": 1,
+    "cpu_count": 4,
+    "cuda": "10.0.130",
+    "args": null,
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/HKLeeeee/Multi_proj_6.git",
+        "commit": "a4637c4adce7a04a142dd5a0daacc50d247cf38c"
+    },
+    "email": "dlapdlf1739@gmail.com",
+    "root": "/home/lab38/Multi_proj_6",
+    "host": "ip-172-31-26-184",
+    "username": "lab38",
+    "executable": "/home/ubuntu/anaconda3/envs/smartpot/bin/python"
+}

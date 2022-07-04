@@ -1,10 +1,7 @@
-# K-digital Training 
-## 멀티캠퍼스 융복합 프로젝트 6조
-### 네 식물 내가 살려
-### 질병, 생육단계 판단 스마트 화분 모듈
+<h3>멀티캠퍼스 융복합 프로젝트 6조</h3>
+<h1>질병, 생육단계 판단 스마트 화분 모듈</h1>
 
----
-**기획**  
+### :mag: **기획**  
 배경 : 
 반려식물 및 관련 상품의 수요와 매출 증가   
 대상 :
@@ -14,23 +11,37 @@
 생육환경 기록 보관  
 
 
-:technologist: **Tech**  
-AWS RDS·Lambda·EC2·S3, Raspberry pi, Arduino,
- mqtt, mosquitto, Python, R, Tensorflow, Pytorch, Android, Flask
+### :technologist: **Tech**  
+<div>
+<img src="https://img.shields.io/badge/RDS-527FFF?style=flat&logo=Amazon RDS&logoColor=white">
+<img src="https://img.shields.io/badge/Lambda-FF9900?style=flat&logo=AWSLambda&logoColor=white">
+<img src="https://img.shields.io/badge/S3-569A13?style=flat&logo=Amazon S3&logoColor=white">
+<img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=Raspberry Pi&logoColor=white">
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white">
+<img src="https://img.shields.io/badge/Mosquitto-3C5280?style=flat&logo=Eclipse Mosquitto&logoColor=white"><br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white">
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white">
+<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white">
+</div>
 
-**Service Architecture**
+
+### **Service Architecture**
 <img src='./src/architecture.png'>
-<br><br>
-**화분 구조도**
-<img src="./src/pot.png">
-<br><br> 
-**질병, 생육단계 판단 모델**
-<img src="./src/model.png">
-딸기&상추 : multi output model, inception resnet v5  
-로즈마리&제라늄 : YoloV5
 
-<table style="text-align: center; width: 50%;">
-<caption>Team Member</caption>
+### :package: **화분 구조도**
+<img src="./src/pot.png">
+
+### :rocket: **질병, 생육단계 판단 모델**
+<img src="./src/model.png">
+
+딸기&상추 : multi output model, inception resnet v5    
+로즈마리&제라늄 : YoloV5  
+
+### :busts_in_silhouette: Team Member
+<table style="text-align: center;">
  <tr>
   <td>BIGDATA</td>
   <td>AI</td>
@@ -47,6 +58,8 @@ AWS RDS·Lambda·EC2·S3, Raspberry pi, Arduino,
 <td>이경훈<br>이채환</td>
  </tr>
 </table>
+
+
 ---
 - [기획안](https://docs.google.com/document/d/13RwllnkEg-1lDlXhFnggXsii04QX7ZwL/edit)
 - [발표자료](https://drive.google.com/drive/u/0/folders/16c9qIBA_35K5xlysDiCqXnJXjSKqKTHJ?lfhs=2)
